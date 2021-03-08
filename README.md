@@ -5,8 +5,11 @@
 ## Table of Content
 
 - Reading 01: Introductory HTML and JavaScript [go to read01 notes](read01.md)
+
 - Reading 02: HTML Text, CSS Introduction, and Basic JacaScript Instructions [go to read02 notes](read02.md)
+
 - Reading 03: HTML List, CSS Boxes, JS Control Flow [go to read03 notes](read03.md)
+
 - Reading 04: HTML Link, CSS Layout, JS Functions [go to read04 notes](read04.md)
 - Reading 05: HTML Images; CSS Color & Text [go to read05 notes](read05.md)
 - Reading 06: JS Object Literals; The DOM [go to read06 notes](read06.md)
