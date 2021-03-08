@@ -4,7 +4,7 @@
 
 ## Table of Content
 
-- Reading 01: Introductory HTML and JavaScript
+- Reading 01: Introductory HTML and JavaScript [go to read01 notes](read01.md)
 - Reading 02: HTML Text, CSS Introduction, and Basic JacaScript Instructions
 - Reading 03: HTML List, CSS Boxes, JS Control Flow
 - Reading 04: HTML Link, CSS Layout, JS Functions
@@ -20,3 +20,5 @@
 - Reading 14a: CSS Transforms, Transitions, and Animations
 - Reading 14b: What Google Learned About Teams
 - Reading 15:
+
+[<==back](README.md)
