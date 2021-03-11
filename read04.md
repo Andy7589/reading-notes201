@@ -17,7 +17,15 @@ be specific on what pages you want to link using the "href" attribute.
   
 for example: <a href="http://imdb.com">IMDB</a>
 
-### Directiry structre
+**Directiry structre**
+
+The root folder contains all of the other files and folder for a website. The relationship between files and folders in a website can be discribed as a "family tree". The homepage of a site is writen with HTML and is called index.html. Web servers are set up to return the index.html file is it doesnt specify a name.
+
+**Relative URLS**
+
+When you link a page to your own site, you dont have to specity the domain name, just you relative URLs which is a short way to telling the browser where a page is.
+
+
 
 
 [<==back](README.md)
