@@ -1,8 +1,8 @@
 # HTML Links, JS Functions, and Intro to CSS Layout
 
-*Notes chapter 4 and notes for chapter 15*
+*Notes for chapter 4 and 15 from HTML and chapter 3 from JS to include "6 reasons for pair programming*
 
-## Chapter 4
+## Chapter 4 - HTML book
 
 ### Links
 
@@ -26,7 +26,7 @@ The root folder contains all of the other files and folder for a website. The re
 When you link a page to your own site, you dont have to specity the domain name, just you relative URLs which is a short way to telling the browser where a page is.
 
 
-## Chapter 15
+## Chapter 15 - HTML book
 
 ### Layout
 
@@ -37,6 +37,23 @@ CSS treats each HTML element as its own box. It'll either be a **Block-level** b
 **Containing Elements**
 
 If one block-level sits in another block-level, then the outer box is known as the **Containing** or **Parent** element. 
+
+
+## Chapter 3 - JS book
+
+### Functions, Methods, and Objects
+
+**What is a Function?**
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
+
+To creat a function, you assign it a name and then write a statement needed to achieve its task inside the curly braces. This is known as a **function declerartion**.
+
+For example: ```function sayHello() { document,write('Hello!'); }```
+
+**Function** is the key word. **sayHello();** is the function name.
+
+
 
 
 [<==back](README.md)
