@@ -6,8 +6,8 @@
 
 ### Links
 
-Links are features embeded in a website that allows you to move from one page to another aka "Surfing".
-Common examples of links are:
+<p> Links are features embeded in a website that allows you to move from one page to another aka "Surfing".
+Common examples of links are:</p>
 - Links from one page to another on the same website
 - Links that open in a new browser window, and
 - Links from one website to another
