@@ -15,7 +15,7 @@ Common examples of links are:
 You can creat links using the <a> tag. Users can click on anything set with in the opening <a> tag and the closing </a> tag. You can
 be specific on what pages you want to link using the "href" attribute.
   
-for example: <a href="http://imdb.com">IMDB</a>
+for example: <p> <a href="http://imdb.com">IMDB</a> </p>
 
 **Directiry structre**
 
