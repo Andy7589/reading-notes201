@@ -32,7 +32,11 @@ When you link a page to your own site, you dont have to specity the domain name,
 
 **Building Blocks**
 
-CSS treats each HTML element as its own box. It'll either be a **Block-level** box or an **Inline** box.
+CSS treats each HTML element as its own box. It'll either be a **Block-level** box or an **Inline** box. **Block-level** boxes start on a new line and act as the main building blocks of any layout, while the **Inline** boxes flow bwtween surrounding text.
+
+**Containing Elements**
+
+If one block-level sits in another block-level, then the outer box is known as the **Containing** or **Parent** element. 
 
 
 [<==back](README.md)
