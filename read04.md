@@ -53,6 +53,21 @@ For example: ```function sayHello() { document,write('Hello!'); }```
 
 **Function** is the key word. **sayHello();** is the function name.
 
+## 6 Reasons for Pair Programming
+
+**How Pair Programming works**
+
+There are 2 rolls, the Driver and the Navigator. The Driver is the programmer who types and the Navigator thinks about the big picture, like what comes next and how to convert an algorithm into code.
+
+**Reasons for Pair Programming**
+There are a few reasons why pair programming is more efficient, for example:
+
+1. Greater Efficiency
+2. Engaged Collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
 
 
 
