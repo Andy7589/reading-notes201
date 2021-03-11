@@ -30,6 +30,9 @@ When you link a page to your own site, you dont have to specity the domain name,
 
 ### Layout
 
+**Building Blocks**
+
+CSS treats each HTML element as its own box. It'll either be a **Block-level** box or an **Inline** box.
 
 
 [<==back](README.md)
