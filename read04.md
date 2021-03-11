@@ -17,7 +17,7 @@ be specific on what pages you want to link using the "href" attribute.
   
 for example: <a href="http://imdb.com">IMDB</a>
 
-**Directiry structre**
+### Directiry structre
 
 
 [<==back](README.md)
