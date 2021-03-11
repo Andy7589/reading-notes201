@@ -26,6 +26,10 @@ The root folder contains all of the other files and folder for a website. The re
 When you link a page to your own site, you dont have to specity the domain name, just you relative URLs which is a short way to telling the browser where a page is.
 
 
+## Chapter 15
+
+### Layout
+
 
 
 [<==back](README.md)
