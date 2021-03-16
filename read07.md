@@ -17,6 +17,7 @@ in properites and encapsulates behavior.
 A table represents information in a grid foramt.
 
 **Basic Table Structure**
+
  A table element(s) structre would look like this: 
  - ```<table>```
 (*The table is used to create a table. This will be writen one by one*)
@@ -27,6 +28,18 @@ A table represents information in a grid foramt.
  - ```<th>```
 (*This is used just like the <td> tag, but its purpose is to represent the heading*)
  
+ **Long Table**
+ 
+ There are three elements that help distinguish the main content of the table and the first 
+ and last row. These tags help those who use screen readers and also allows you to style 
+ these sections.
+ Examples of these tags are:
+ - ```<thead>```
+ (*The heading of the table should sit inside the <thead> tag*)
+ - ```<tbody>```
+ - 
+ 
+ 
  
  
  
@@ -35,9 +48,4 @@ A table represents information in a grid foramt.
 
     
                                     
-
-
-
-
-
 [<==back](README.md)
