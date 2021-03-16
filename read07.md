@@ -1,6 +1,6 @@
 # Domain Modeling
 
-*Notes for **Domain Modeling** *
+*Notes for **Domain Modeling***
 
 
 
