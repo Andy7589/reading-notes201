@@ -60,16 +60,5 @@ A table represents information in a grid foramt.
  
  ```function sayHello() { documentaion.write('Hello'); }```
 
-
- 
- 
- 
- 
- 
- 
-
-
-
-    
                                     
 [<==back](README.md)
