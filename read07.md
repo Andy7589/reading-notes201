@@ -37,7 +37,11 @@ A table represents information in a grid foramt.
  - ```<thead>```
  (*The heading of the table should sit inside the <thead> tag*)
  - ```<tbody>```
- - 
+ (*The body should sit inside the <tbody> tag*)
+ - ```<tfoot>```
+ (*The footer belongs inside the <tfoot> tag*)
+ 
+ 
  
  
  
