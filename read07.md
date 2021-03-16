@@ -40,6 +40,13 @@ A table represents information in a grid foramt.
  (*The body should sit inside the <tbody> tag*)
  - ```<tfoot>```
  (*The footer belongs inside the <tfoot> tag*)
+  
+  # JS Book Chapter 3 "Function, Methods, and Objects"
+  
+  *Notes for **Chapter 3***
+  
+ ### Functions,Methods and Objects
+ 
  
  
  
