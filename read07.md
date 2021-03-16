@@ -47,7 +47,19 @@ A table represents information in a grid foramt.
   
  ### Functions,Methods and Objects
  
+ **What is a Function?**
  
+ Functions allow you to group a series of statments together to perform specific tasks.
+ Putting statments together that require answers help organize your code.
+ 
+ **Declaring a Function**
+ 
+ To create a function, you give it a name and then write the statments needed to achieve its task
+ inside the curly {} braces.
+ An example of this is:
+ ```function sayHello() { documentaion.write('Hello'); }
+
+
  
  
  
