@@ -57,7 +57,8 @@ A table represents information in a grid foramt.
  To create a function, you give it a name and then write the statments needed to achieve its task
  inside the curly {} braces.
  An example of this is:
- ```function sayHello() { documentaion.write('Hello'); }
+ 
+ ```function sayHello() { documentaion.write('Hello'); }```
 
 
  
