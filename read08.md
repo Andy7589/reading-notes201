@@ -8,9 +8,12 @@ CSS had the following positioning schemes that allow you to control the layout o
 relative positioining, and absolute positioning.
 Examples of these positioins are:
 
-- **Normal Flow**
+- **Normal Flow <postion:static>**
 (*Every block-level element appears on  a new line, causing each item to appear lower down the page than
  the previous one.*)
+ 
+ 
+ 
 - **Relative Positioning**
 (*This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom,
  or left of where it would have been placed*)
@@ -24,6 +27,10 @@ Examples of these positioins are:
  of a containing box*)
 
 By using the ```z-index``` property, you'll be able to control which box appears on top. 
+
+
+
+
 
 
 
