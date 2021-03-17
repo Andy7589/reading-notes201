@@ -25,6 +25,17 @@ Examples of these positioins are:
 - **Overlapping Elements ```z-index```***
 (*Using the **z-index** property, you can control which box appears on top. This can help with overlaping boxes*)
 
+### Using The 960.GS Grid Framework
+
+960.gs provides a style sheet that you can include in your HTML pages. 960.gs creats grids to layout pages.
+Here is an example of a 960.gs layout out:
+```
+<head>
+  <title>**Grid Layout**</title>```
+  
+  sdgsdg
+
+
 
 
 
