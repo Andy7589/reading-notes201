@@ -29,18 +29,45 @@ Examples of these positioins are:
 
 960.gs provides a style sheet that you can include in your HTML pages. 960.gs creats grids to layout pages.
 Here is an example of a 960.gs layout out:
-```
-<head>
-  <title>**Grid Layout**</title>```
+
+```<head>
+  <title>Grid Layout</title>
+  <link rel="stylesheet" type="text/css"
+        href="css/960_12_col.css" />
+  <style>See the right hand page</style>
+</head>
+<body>
+  <div class="container_12 clearfix">
+    <div id="header" class="grid_12">
+      <h1>Logo</h1>
+        <div id="nav">
+          <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Products</a></li>
+            <li><a href="">Services</a></li>
+            <li><a href="">About</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="feature" class="grid_12>
+        <p>Feature</p>
+      </div>
+      <div class="artical grid_4">
+        <p>Column One</p>
+      </div>
+      <div class="artical grid_4">
+        <p>Column Two</p>
+      </div>
+      <div class="artical grid_4">
+        <p>Column Three</p>
+      </div>
+      <div id="footer" class="grid_12>
+        <p>&copy; Copyright 2011</p>
+      </div>
+    </div><!-- .container_12 -->
+  </body> ```
   
-  sdgsdg
-
-
-
-
-
-
-
-
+  
 
 [<==back](README.md)
