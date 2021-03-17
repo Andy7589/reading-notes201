@@ -23,7 +23,7 @@ Examples of these positioins are:
 (*Floating an element allows you to take that element out of normal flow and position it to the far left or right
  of a containing box*)
 - **Overlapping Elements ```z-index```***
-(*Using the 'z-index' property, you can control which box appears on top. This can help with overlaping boxes*)
+(*Using the **z-index** property, you can control which box appears on top. This can help with overlaping boxes*)
 
 
 
