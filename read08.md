@@ -30,7 +30,8 @@ Examples of these positioins are:
 960.gs provides a style sheet that you can include in your HTML pages. 960.gs creats grids to layout pages.
 Here is an example of a 960.gs layout out:
 
-```<head>
+```
+<head>
   <title>Grid Layout</title>
   <link rel="stylesheet" type="text/css"
         href="css/960_12_col.css" />
@@ -66,7 +67,8 @@ Here is an example of a 960.gs layout out:
         <p>&copy; Copyright 2011</p>
       </div>
     </div><!-- .container_12 -->
-  </body> ```
+  </body> 
+ ```
   
   
 
