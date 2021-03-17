@@ -15,9 +15,15 @@ Examples of these positioins are:
 (*This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom,
  or left of where it would have been placed*)
 - **Absolute Postioning**
-(**)
+(*This postions the element in relation to its containing element*)
+- **Fixed Positioning**
+(*This is a form of absolute positioning that positions the element in relation to the browser window, as
+ opposed to the containing element*)
+- **Floating Elements**
+(*Floating an element allows you to take that element out of normal flow and position it to the far left or right
+ of a containing box*)
 
-
+By using the ```z-index``` property, you'll be able to control which box appears on top. 
 
 
 
