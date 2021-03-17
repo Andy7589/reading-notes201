@@ -8,7 +8,7 @@ CSS had the following positioning schemes that allow you to control the layout o
 relative positioining, and absolute positioning.
 Examples of these positioins are:
 
-- **Normal Flow <postion:static>**
+- **Normal Flow ```postion:static```**
 (*Every block-level element appears on  a new line, causing each item to appear lower down the page than
  the previous one.*)
  
