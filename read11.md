@@ -35,7 +35,25 @@ In every page of your wbsite there are seven key places where keywords can appea
 
 -  Page Title
 -  URL/Web Address
--  
+-  Headings
+-  Text
+-  Link Text
+-  Image ALT Text
+-  and Page Descriprions
+
+### How to Identify Keywords and Phrases
+
+Dertermining which keywords to use on your site can be one of the hardest tasks, here are six steps that will help you identify those keywords:
+
+- Brainstorm
+- Organize
+- Research
+- Compare
+- Refine
+- Map
+
+
+
 
 
 
