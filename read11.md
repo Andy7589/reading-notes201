@@ -9,6 +9,8 @@ Specifing image sizes helps pages to load smoothly because the HTML and CSS code
 
 ### Background Images
 
+The **background-image** property allows you to place an image behind any HTML elemnt. The path to the imagefollows the letters **url**, and it is put inside parentheses and quotes. An example code of this is: ```body {background-image: url("images/patterns.gif");}```.
+
 
 
 
