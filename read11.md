@@ -15,8 +15,16 @@ The ```background-image``` property allows you to place an image behind any HTML
 
 You can use the ```background-position``` property to speficy where in the browser window the background image should be placed. Examples of background positioning code could look like this:
 
-```body {
-background-position:_____;}```
+```body {background-position: insert here ;}```
 
+- ```left top```
+- ```left center```
+- ```left bottom```
+- ```center top```
+- ```center center```
+- ```center bottom```
+- ```right top```
+- ```right center```
+- ```right bottom```
 
 [<==back](README.md)
