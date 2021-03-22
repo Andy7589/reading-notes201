@@ -29,7 +29,13 @@ You can use the ```background-position``` property to speficy where in the brows
 
 ## Chapter 19: "Practical Information"
 
+### On-Page SEO
 
+In every page of your wbsite there are seven key places where keywords can appear in order to improve its findability. These key words or key places are as follows:
+
+- 1. Page Title
+- 2. URL/Web Address
+- 3. 
 
 
 
